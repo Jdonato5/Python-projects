@@ -1,4 +1,4 @@
-#project5/Johnny Donato/ Oct 16,2019
+#Intake calulator/Johnny/ Oct 16,2019
 
 #Input
 
@@ -14,8 +14,8 @@ def incarbohydrate():
 #Process
 
 def procalories(a):
-    caloriesFomFat= a * 9
-    c=caloriesFomFat
+    caloriesFromFat= a * 9
+    c=caloriesFromFat
     return c
 
 def procarbohydrate(b):
