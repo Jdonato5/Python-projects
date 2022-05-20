@@ -1,10 +1,10 @@
-#project10/Johnny Donato/ November 20,2019
+#Pay calculator/Johnny Donato/ November 20,2019
 
 #class
 class employee:
     def __init__(self):
         name=input('enter name')
-        pay=80.00
+        pay=40.00
         houres=('enter hours')
 #Assessor methods
     #Set method
@@ -26,7 +26,7 @@ class employee:
     #member method
     #mutilator method             
     def emppay():
-        pay=houres*80.00
+        pay=houres*40.00
         return pay
 
 
