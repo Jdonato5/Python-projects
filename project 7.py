@@ -1,4 +1,4 @@
-#project7/Johnny Donato/October 30,2019
+#Weather Channel/October 30,2019
 import time
 def high(dt):
     m=max(dt)
