@@ -1,4 +1,4 @@
-#Intake calulator/Johnny/ Oct 16,2019
+#Intake calulator/ Oct 16,2019
 
 #Input
 
