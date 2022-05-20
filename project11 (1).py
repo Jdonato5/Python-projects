@@ -1,4 +1,4 @@
-#project11/Johnny Donato/ November 20,2019
+#Self Pay/ November 20,2019
 
 #class
 class Employee:
@@ -24,7 +24,7 @@ class Employee:
         return self.hours
     
     def emppay():
-        pay=houres*80.00
+        pay=houres*40.00
         return pay
     
 class Newemp(Employee):
