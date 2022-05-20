@@ -1,4 +1,4 @@
-#PROJECT4/ JOHNNY dONATO/ OCT 3, 2019
+# Pay calulator / OCT 3, 2019
 
 #INPUT
 hours = int(input('how many hours were worked for the week? '))
